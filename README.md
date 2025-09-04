@@ -7,7 +7,7 @@ This project highlights my **animation and styling skills** as a frontend develo
 
 ### ➥ 🌐 Live Website
 
-🔗 **Live Demo** → [gamingempire.netlify.app](https://gamingempire.netlify.app)
+🔗 **Live Demo** → [gamingempire.netlify.app](https://gaming-empire01.netlify.app/)
 
 ---
 
